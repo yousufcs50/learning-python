@@ -5,3 +5,7 @@ for num in nums:
             #break
             continue
             print(num) # specific position of print is imprtant
+e=(1,2,3,4,5)
+for jk in e:
+    print(jk)
+        
